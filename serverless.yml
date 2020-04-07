@@ -1,6 +1,6 @@
 service: DailyReflections
-app: Bernard
-org: WestWorld
+app: bernard
+org: westworld
 
 provider:
   name: aws
